@@ -1,6 +1,4 @@
-# GitHub Fundamentals
 
-Repository for the `GitHub Fundamentals` training.
 
 ## 👉 Objectives
 
