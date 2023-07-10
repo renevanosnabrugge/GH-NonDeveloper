@@ -21,6 +21,9 @@ public class mwrhod1()
 
 take a look a the `method1` and then press <kbd>ctrl</kbd>
 
+[go to google](https://www.google.com)
+[readme](./readme.md)
+
 ## Heading 2
 
 ### Heading 3
