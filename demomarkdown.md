@@ -10,6 +10,14 @@ Some text underneath
 - [ ] Twask 2
 - [ ] Task 3
 
+Take a look at this c# method
+
+```csharp
+public class mwrhod1()
+{
+}
+```
+
 ## Heading 2
 
 ### Heading 3
