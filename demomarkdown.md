@@ -6,7 +6,7 @@ Some text underneath
 * Test 2
   * Test 1
  
-- [ ] Task 1
+- [x] Task 1
 - [ ] Twask 2
 - [ ] Task 3
 
