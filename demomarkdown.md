@@ -24,6 +24,8 @@ take a look a the `method1` and then press <kbd>ctrl</kbd>
 [go to google](https://www.google.com)
 [readme](./readme.md)
 
+![alrt text](https://www.freepik.com/icons/test)
+
 ## Heading 2
 
 ### Heading 3
