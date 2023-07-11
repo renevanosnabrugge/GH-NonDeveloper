@@ -7,8 +7,8 @@ Some text underneath
   * Test 1
  
 - [x] Task 1
-- [ ] Twask 2
-- [ ] Task 3
+- [x] Twask 2
+- [x] Task 3
 
 Take a look at this c# method
 
